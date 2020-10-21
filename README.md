@@ -1,0 +1,5 @@
+- Step 1: composer i
+- Step 2: bin/console doctrine:database:create
+- Step 3: bin/console doctrine:migrations:migrate
+- Step 4: bin/console app:
+- STep 5: browse index page
